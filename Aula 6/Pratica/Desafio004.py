@@ -15,4 +15,3 @@ if resposta.isalpha():
         print('{}, está toda em minusculas! \n '.format(resposta))
     else:
         print('{}, Não está toda em minusculas! \n '.format(resposta))
-
