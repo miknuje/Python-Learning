@@ -16,5 +16,5 @@ di= n1 // n2
 e = n1 ** n2
 r = n1 % n2
 
-print('A soma é {0}, a multiplicação é {2}, o produto é {1:.3f}'.format(s, d, m), end='. ')
+print('A soma é {0}, a multiplicação é {2}, o divisão é {1:.3f}'.format(s, d, m), end='. ')
 print('A divisão inteira é {}, a potência é {}, o resto é {}'.format(di, e, r))
